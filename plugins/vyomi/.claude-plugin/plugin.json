@@ -1,6 +1,6 @@
 {
   "name": "vyomi",
-  "version": "3.0.45",
+  "version": "3.0.46",
   "description": "Run and test cloud code locally against Vyomi, the local AWS/GCP/Azure simulator: scan a repo, see what is emulated, and wire SDKs to the simulator.",
   "author": {
     "name": "Vyomi",
